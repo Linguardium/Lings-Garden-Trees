@@ -1,0 +1,18 @@
+The following assets were from jordizzle @ https://jordizzle.itch.io/farming-game-asset-pack-1
+avocado_fruit.png
+banana_fruit.png
+cherry_fruit.png
+coconut_fruit.png
+grapefruit_fruit.png
+greenapple_fruit.png
+lemon_fruit.png
+lime_fruit.png
+mango_fruit.png
+orange_fruit.png
+peach_fruit.png
+pear_fruit.png
+plum_fruit.png
+redapple_fruit.png
+yellowapple_fruit.png
+
+
